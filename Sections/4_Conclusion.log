@@ -3,11 +3,16 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/access.tex
-(/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/access.tex
+**/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/Sections/4_Conclusion.tex
+(/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/Sections/4_Conclusion.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
-(./ieeeaccess.cls (/usr/local/texlive/2024/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
+(/usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../access.tex'
+(/usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+) (Sections/../access.tex (./ieeeaccess.cls (/usr/local/texlive/2024/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -368,9 +373,7 @@ Package: amsthm 2020/05/29 v2.20.6
 \dth@everypar=\toks38
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
-Package: import 2020/04/01  v 6.2
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2024-08-20 v3.3.21 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count309
 \l__siunitx_number_exponent_fixed_int=\count310
@@ -627,91 +630,91 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@ulht=\dimen292
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-))
+))))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 52.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 4.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count351
 \l__pdf_internal_box=\box72
-) (./access.aux)
-\openout1 = `access.aux'.
+) (Sections/4_Conclusion.aux)
+\openout1 = `4_Conclusion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 
 -- Lines per column: 45 (approximate, difference = 10.10316pt).
 \symNewLetters=\mathgroup6
 \symxsymbols=\mathgroup7
-LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 52.
-LaTeX Font Info:    Redeclaring math symbol \dagger on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \dagger on input line 4.
 \c@mv@regular=\count352
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `operators' in the math version `regular' on input line 52.
+(Font)              `operators' in the math version `regular' on input line 4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `regular'
-(Font)                  OT1/cmr/m/n --> T1/formata/n/n on input line 52.
+(Font)                  OT1/cmr/m/n --> T1/formata/n/n on input line 4.
 LaTeX Font Info:    Overwriting symbol font `NewLetters' in version `regular'
-(Font)                  T1/times/n/it --> T1/formata/n/it on input line 52.
+(Font)                  T1/times/n/it --> T1/formata/n/it on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `regular'
-(Font)                  T1/formata/n/n --> T1/formata/n/n on input line 52.
+(Font)                  T1/formata/n/n --> T1/formata/n/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `regular'
-(Font)                  OT1/cmr/m/it --> T1/formata/n/it on input line 52.
+(Font)                  OT1/cmr/m/it --> T1/formata/n/it on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `regular'
-(Font)                  OT1/cmr/bx/n --> T1/formata/m/n on input line 52.
+(Font)                  OT1/cmr/bx/n --> T1/formata/m/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `regular'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 52.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 4.
 \c@mv@medium=\count353
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `operators' in the math version `medium' on input line 52.
+(Font)              `operators' in the math version `medium' on input line 4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `medium'
-(Font)                  OT1/cmr/m/n --> T1/formata/m/n on input line 52.
+(Font)                  OT1/cmr/m/n --> T1/formata/m/n on input line 4.
 LaTeX Font Info:    Overwriting symbol font `NewLetters' in version `medium'
-(Font)                  T1/times/n/it --> T1/formata/m/it on input line 52.
+(Font)                  T1/times/n/it --> T1/formata/m/it on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `medium'
-(Font)                  > T1/formata/m/n on input line 52.
+(Font)                  > T1/formata/m/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `medium'
-(Font)                  OT1/cmr/m/it --> T1/formata/m/it on input line 52.
+(Font)                  OT1/cmr/m/it --> T1/formata/m/it on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `medium'
-(Font)                  OT1/cmr/bx/n --> T1/formata/b/n on input line 52.
+(Font)                  OT1/cmr/bx/n --> T1/formata/b/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `medium'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/b/n on input line 52.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/b/n on input line 4.
 \c@mv@black=\count354
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `operators' in the math version `black' on input line 52.
+(Font)              `operators' in the math version `black' on input line 4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `black'
-(Font)                  OT1/cmr/m/n --> T1/formata/b/n on input line 52.
+(Font)                  OT1/cmr/m/n --> T1/formata/b/n on input line 4.
 LaTeX Font Info:    Overwriting symbol font `NewLetters' in version `black'
-(Font)                  T1/times/n/it --> T1/formata/b/it on input line 52.
+(Font)                  T1/times/n/it --> T1/formata/b/it on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `black'
-(Font)                  > T1/formata/b/n on input line 52.
+(Font)                  > T1/formata/b/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `black'
-(Font)                  OT1/cmr/m/it --> T1/formata/b/it on input line 52.
+(Font)                  OT1/cmr/m/it --> T1/formata/b/it on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `black'
-(Font)                  OT1/cmr/bx/n --> T1/formata/b/n on input line 52.
+(Font)                  OT1/cmr/bx/n --> T1/formata/b/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `black'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/b/n on input line 52.
-LaTeX Font Info:    Trying to load font information for T1+times on input line 52.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/b/n on input line 4.
+LaTeX Font Info:    Trying to load font information for T1+times on input line 4.
 (./t1times.fd) (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count355
@@ -768,91 +771,65 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 (/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 52.
-Package hyperref Info: Link coloring ON on input line 52.
- (./access.out) (./access.out)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 4.
+Package hyperref Info: Link coloring ON on input line 4.
 \@outlinefile=\write3
-\openout3 = `access.out'.
+\openout3 = `4_Conclusion.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<bullet.png, id=35, 12.045pt x 35.38219pt>
-File: bullet.png Graphic file (type png)
-<use bullet.png>
-Package pdftex.def Info: bullet.png  used on input line 75.
-(pdftex.def)             Requested size: 5.0pt x 14.6871pt.
-File: bullet.png Graphic file (type png)
-<use bullet.png>
-Package pdftex.def Info: bullet.png  used on input line 79.
-(pdftex.def)             Requested size: 5.0pt x 14.6871pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 85.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+
+
+/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/Sections/4_Conclusion.tex:7: Class ieeeaccess Error: You have not used the command \EOD at the end of 
+(ieeeaccess)              last para in the document. I have reached end of the document searching for it.
+
+See the ieeeaccess class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \end{document}
+                  
+Please put the macro \EOD in the end of the last para. (End of last biography or end of last reference.)
+
+
+
+
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 85.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 85.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 7.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 85.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 7.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 85.
+(Font)              <10> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 85.
+(Font)              <7> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 85.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 85.
+(Font)              <5> on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 85.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9.9> on input line 85.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6.92996> on input line 85.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <4.95> on input line 85.
-LaTeX Font Info:    Calculating math sizes for size <6.6> on input line 85.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6.6> on input line 85.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <4.61998> on input line 85.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <3.3> on input line 85.
-
-Overfull \hbox (9.2679pt too wide) in paragraph at lines 85--85
-[]  
- []
-
-
-Overfull \hbox (9.2679pt too wide) in paragraph at lines 85--85
-[]  
- []
-
-(./Sections/1_Introduction_State_Art.tex)
-
-
-
-<logo.png, id=36, 206.27063pt x 53.44969pt>
-File: logo.png Graphic file (type png)
-<use logo.png>
-Package pdftex.def Info: logo.png  used on input line 98.
-(pdftex.def)             Requested size: 91.32pt x 23.66309pt.
-
-Overfull \hbox (404.71022pt too wide) has occurred while \output is active
-[]
- []
-
+<notaglinelogo.png, id=6, 169.38281pt x 42.91031pt>
+File: notaglinelogo.png Graphic file (type png)
+<use notaglinelogo.png>
+Package pdftex.def Info: notaglinelogo.png  used on input line 7.
+(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (404.71022pt too wide) has occurred while \output is active
 []
@@ -871,123 +848,34 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1
 
 
-
- <./logo.png> <./bullet.png>] (./Sections/4_Conclusion.tex) (./access.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 23.
-
-)
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 107.
-
-<almei1.png, id=48, 452.69125pt x 564.1075pt>
-File: almei1.png Graphic file (type png)
-<use almei1.png>
-Package pdftex.def Info: almei1.png  used on input line 107.
-(pdftex.def)             Requested size: 72.2663pt x 90.05246pt.
-File: almei1.png Graphic file (type png)
-<use almei1.png>
-Package pdftex.def Info: almei1.png  used on input line 107.
-(pdftex.def)             Requested size: 72.2663pt x 90.05246pt.
-<baiar1.png, id=51, 300.3722pt x 451.6875pt>
-File: baiar1.png Graphic file (type png)
-<use baiar1.png>
-Package pdftex.def Info: baiar1.png  used on input line 115.
-(pdftex.def)             Requested size: 60.07336pt x 90.33589pt.
-File: baiar1.png Graphic file (type png)
-<use baiar1.png>
-Package pdftex.def Info: baiar1.png  used on input line 115.
-(pdftex.def)             Requested size: 60.07336pt x 90.33589pt.
-
-
-<maesa1.png, id=54, 77.77495pt x 77.77495pt>
-File: maesa1.png Graphic file (type png)
-<use maesa1.png>
-Package pdftex.def Info: maesa1.png  used on input line 123.
-(pdftex.def)             Requested size: 72.2706pt x 72.2706pt.
-File: maesa1.png Graphic file (type png)
-<use maesa1.png>
-Package pdftex.def Info: maesa1.png  used on input line 123.
-(pdftex.def)             Requested size: 72.2706pt x 72.2706pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--130
-[]\T1/formata/m/n/8 DAMIANO DI FRANCESCO
- []
-
-
-Underfull \hbox (badness 1997) in paragraph at lines 123--130
-\T1/times/m/n/8 in-clude the Uni-ver-sity of Cam-
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 123--130
-\T1/times/m/n/8 bridge, King's Col-lege Lon-don,
- []
-
-<ricci1.png, id=58, 313.9228pt x 313.9228pt>
-File: ricci1.png Graphic file (type png)
-<use ricci1.png>
-Package pdftex.def Info: ricci1.png  used on input line 132.
-(pdftex.def)             Requested size: 72.26778pt x 72.26778pt.
-File: ricci1.png Graphic file (type png)
-<use ricci1.png>
-Package pdftex.def Info: ricci1.png  used on input line 132.
-(pdftex.def)             Requested size: 72.26778pt x 72.26778pt.
-
-Underfull \hbox (badness 1394) in paragraph at lines 132--143
-[]\T1/times/m/n/8 Her re-search in-ter-ests in-clude
- []
-
-File: bullet.png Graphic file (type png)
-<use bullet.png>
-Package pdftex.def Info: bullet.png  used on input line 145.
-(pdftex.def)             Requested size: 5.0pt x 14.6871pt.
-
-
-<notaglinelogo.png, id=61, 169.38281pt x 42.91031pt>
-File: notaglinelogo.png Graphic file (type png)
-<use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 146.
-(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
-
-Overfull \hbox (404.71022pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (404.71022pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[2
-
- <./notaglinelogo.png> <./almei1.png> <./Baiar1.png> <./maesa1.png> <./ricci1.png>] (./access.aux)
+ <./notaglinelogo.png>] (Sections/4_Conclusion.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
-Package rerunfilecheck Info: File `access.out' has not changed.
-(rerunfilecheck)             Checksum: 0CB4206588EFB20909AA558C7E71F14C;990.
+
+
+Package rerunfilecheck Warning: File `4_Conclusion.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `4_Conclusion.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20183 strings out of 473579
- 384525 string characters out of 5728234
- 775322 words of memory out of 5000000
- 42735 multiletter control sequences out of 15000+600000
- 794033 words of font info for 192 fonts, out of 8000000 for 9000
+ 20028 strings out of 473579
+ 382125 string characters out of 5728234
+ 764327 words of memory out of 5000000
+ 42596 multiletter control sequences out of 15000+600000
+ 746647 words of font info for 142 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 75i,12n,117p,691b,1020s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<./t1-formata-bold.pfb><./t1-formata-condmedium.pfb><./t1-formata-medium.pfb><./t1-formata-regular.pfb><./t1-giovannistd-bookitalic.pfb><./t1-times.pfb>
-Output written on access.pdf (2 pages, 871720 bytes).
+ 95i,12n,134p,631b,964s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<./t1-formata-regular.pfb><./t1-times.pfb>
+Output written on Sections/4_Conclusion.pdf (1 page, 43503 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 14 words of extra memory for PDF output out of 10000 (max. 10000000)
 
