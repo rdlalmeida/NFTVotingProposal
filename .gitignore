@@ -2,3 +2,9 @@
 *.bbl
 *.bcf
 *.blg
+*.fdb-latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.run.xml
