@@ -239,6 +239,39 @@
       \verb 10.1016/j.jksuci.2022.06.014
       \endverb
     \endentry
+    \entry{Antonopoulos2018}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=a8107494556af1100a132bb87b1cbd5d}{%
+           family={Antonopoulos},
+           familyi={A\bibinitperiod},
+           given={Andreas\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9f252fbc7b8ff3c128b3e8dd806afa9b}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Gavin},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OŔeilly}%
+      }
+      \strng{namehash}{0515da2a94d478608713cf3718d598f1}
+      \strng{fullhash}{0515da2a94d478608713cf3718d598f1}
+      \strng{fullhashraw}{0515da2a94d478608713cf3718d598f1}
+      \strng{bibnamehash}{0515da2a94d478608713cf3718d598f1}
+      \strng{authorbibnamehash}{0515da2a94d478608713cf3718d598f1}
+      \strng{authornamehash}{0515da2a94d478608713cf3718d598f1}
+      \strng{authorfullhash}{0515da2a94d478608713cf3718d598f1}
+      \strng{authorfullhashraw}{0515da2a94d478608713cf3718d598f1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1nd}
+      \field{isbn}{978-1-491-97194-9}
+      \field{title}{Mastering Ethereum, Building Smart Contracts and Dapps}
+      \field{year}{2018}
+    \endentry
     \entry{BenAyed2017}{article}{}{}
       \name{author}{1}{}{%
         {{hash=d3115bc1e4238f4c98f1702c1ec6a5ca}{%
@@ -406,6 +439,43 @@
       \field{title}{A Practical Electronic Voting Protocol Using Threshold Schemes}
       \field{year}{1995}
     \endentry
+    \entry{Bartoletti2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2d02e0086a3b5333f3f804c853b6ae0a}{%
+           family={Bartoletti},
+           familyi={B\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=38e112a374a1c736080e6f725a62f7f4}{%
+           family={Pompianu},
+           familyi={P\bibinitperiod},
+           given={Livio},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{77692bbe364bf6a280f655d91b33aa1f}
+      \strng{fullhash}{77692bbe364bf6a280f655d91b33aa1f}
+      \strng{fullhashraw}{77692bbe364bf6a280f655d91b33aa1f}
+      \strng{bibnamehash}{77692bbe364bf6a280f655d91b33aa1f}
+      \strng{authorbibnamehash}{77692bbe364bf6a280f655d91b33aa1f}
+      \strng{authornamehash}{77692bbe364bf6a280f655d91b33aa1f}
+      \strng{authorfullhash}{77692bbe364bf6a280f655d91b33aa1f}
+      \strng{authorfullhashraw}{77692bbe364bf6a280f655d91b33aa1f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783319702773}
+      \field{issn}{16113349}
+      \field{journaltitle}{Lecture Notes in Computer Science}
+      \field{title}{An Analysis of Bitcoin OP\_RETURN Metadata}
+      \field{volume}{10323 LNCS}
+      \field{year}{2017}
+      \field{pages}{218\bibrangedash 230}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-319-70278-0_14
+      \endverb
+    \endentry
     \entry{Bartolucci2018}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=b1db58fcccee87b1af840f1d370ccfb0}{%
@@ -441,6 +511,36 @@
       \field{year}{2018}
       \field{pages}{1\bibrangedash 5}
       \range{pages}{5}
+    \endentry
+    \entry{bbc2017}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c426a69e520c8911e081aabbf277c14a}{%
+           family={bbc.com},
+           familyi={b\bibinitperiod}}}%
+      }
+      \strng{namehash}{c426a69e520c8911e081aabbf277c14a}
+      \strng{fullhash}{c426a69e520c8911e081aabbf277c14a}
+      \strng{fullhashraw}{c426a69e520c8911e081aabbf277c14a}
+      \strng{bibnamehash}{c426a69e520c8911e081aabbf277c14a}
+      \strng{authorbibnamehash}{c426a69e520c8911e081aabbf277c14a}
+      \strng{authornamehash}{c426a69e520c8911e081aabbf277c14a}
+      \strng{authorfullhash}{c426a69e520c8911e081aabbf277c14a}
+      \strng{authorfullhashraw}{c426a69e520c8911e081aabbf277c14a}
+      \field{sortinit}{b}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CryptoKitties craze slows down transactions on Ethereum}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bbc.com/news/technology-42237162
+      \endverb
+      \verb{url}
+      \verb https://www.bbc.com/news/technology-42237162
+      \endverb
     \endentry
     \entry{Benaloh1994}{inproceedings}{}{}
       \name{author}{2}{}{%
@@ -1188,6 +1288,72 @@
       \verb 10.1109/REDUNDANCY48165.2019.9003336
       \endverb
     \endentry
+    \entry{ERC1155}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b8a91f4b79257e293f63378b4030938e}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={Ethereum},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{fullhash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{fullhashraw}{b8a91f4b79257e293f63378b4030938e}
+      \strng{bibnamehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authorbibnamehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authornamehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authorfullhash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authorfullhashraw}{b8a91f4b79257e293f63378b4030938e}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ERC-1155 Multi-Token Standard}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/
+      \endverb
+      \verb{url}
+      \verb https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/
+      \endverb
+    \endentry
+    \entry{ERC721}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b8a91f4b79257e293f63378b4030938e}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={Ethereum},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{fullhash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{fullhashraw}{b8a91f4b79257e293f63378b4030938e}
+      \strng{bibnamehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authorbibnamehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authornamehash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authorfullhash}{b8a91f4b79257e293f63378b4030938e}
+      \strng{authorfullhashraw}{b8a91f4b79257e293f63378b4030938e}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ERC-721 Non-Fungible Token Standard}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
+      \endverb
+      \verb{url}
+      \verb https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
+      \endverb
+    \endentry
     \entry{Fujioka1992}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=f7a5bb5f0e5ee339bde85276dd7450f9}{%
@@ -1288,6 +1454,35 @@
       \field{year}{2018}
       \field{pages}{223\bibrangedash 227}
       \range{pages}{5}
+    \endentry
+    \entry{Gharegozlou2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d0500895f46bbf0fbfb1d7e10b7e982e}{%
+           family={Gharegozlou},
+           familyi={G\bibinitperiod},
+           given={Roham},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \strng{fullhash}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \strng{fullhashraw}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \strng{bibnamehash}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \strng{authorbibnamehash}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \strng{authornamehash}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \strng{authorfullhash}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \strng{authorfullhashraw}{d0500895f46bbf0fbfb1d7e10b7e982e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducing Flow, a new blockchain from the creators of CryptoKitties}
+      \field{urlyear}{2022-06-20}
+      \verb{urlraw}
+      \verb https://medium.com/dapperlabs/introducing-flow-a-new-blockchain-from-the-creators-of-cryptokitties-d291282732f5
+      \endverb
+      \verb{url}
+      \verb https://medium.com/dapperlabs/introducing-flow-a-new-blockchain-from-the-creators-of-cryptokitties-d291282732f5
+      \endverb
     \endentry
     \entry{Goldwasser1986}{article}{}{}
       \name{author}{3}{}{%
@@ -1551,6 +1746,106 @@
       \field{year}{2015}
       \field{pages}{19\bibrangedash 34}
       \range{pages}{16}
+    \endentry
+    \entry{Hentschel2019a}{online}{}{}
+      \name{author}{3}{}{%
+        {{hash=83f3759e2b1a75d05f1ef52e5c1d1808}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b6d0242d0ac13e2113c737e3a65c7860}{%
+           family={Shirley},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dbbee97ff7483c61ac6b5aa4bb6c8762}{%
+           family={Lafrance},
+           familyi={L\bibinitperiod},
+           given={Layne},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Dapper Labs}%
+      }
+      \strng{namehash}{26accfb7520b188042cf2f98f1c36bbf}
+      \strng{fullhash}{26accfb7520b188042cf2f98f1c36bbf}
+      \strng{fullhashraw}{26accfb7520b188042cf2f98f1c36bbf}
+      \strng{bibnamehash}{26accfb7520b188042cf2f98f1c36bbf}
+      \strng{authorbibnamehash}{26accfb7520b188042cf2f98f1c36bbf}
+      \strng{authornamehash}{26accfb7520b188042cf2f98f1c36bbf}
+      \strng{authorfullhash}{26accfb7520b188042cf2f98f1c36bbf}
+      \strng{authorfullhashraw}{26accfb7520b188042cf2f98f1c36bbf}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Flow: Separating Consensus and Compute}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1909.05821
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1909.05821
+      \endverb
+    \endentry
+    \entry{Hentschel2019b}{online}{}{}
+      \name{author}{5}{}{%
+        {{hash=83f3759e2b1a75d05f1ef52e5c1d1808}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8fb5fa395e168e05d0795fc4ca6b2978}{%
+           family={Hassanzadeh-Nazarabadi},
+           familyi={H\bibinithyphendelim N\bibinitperiod},
+           given={Yahya},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=03d72b1104e9acad49855aec5d0cace3}{%
+           family={Seraj},
+           familyi={S\bibinitperiod},
+           given={Ramtin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b6d0242d0ac13e2113c737e3a65c7860}{%
+           family={Shirley},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dbbee97ff7483c61ac6b5aa4bb6c8762}{%
+           family={Lafrance},
+           familyi={L\bibinitperiod},
+           given={Layne},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Dapper Labs}%
+      }
+      \strng{namehash}{2035daf3da1494ae2b6864e85787ff9e}
+      \strng{fullhash}{175f00dac6a138aae19d4045adb3cf4b}
+      \strng{fullhashraw}{175f00dac6a138aae19d4045adb3cf4b}
+      \strng{bibnamehash}{2035daf3da1494ae2b6864e85787ff9e}
+      \strng{authorbibnamehash}{2035daf3da1494ae2b6864e85787ff9e}
+      \strng{authornamehash}{2035daf3da1494ae2b6864e85787ff9e}
+      \strng{authorfullhash}{175f00dac6a138aae19d4045adb3cf4b}
+      \strng{authorfullhashraw}{175f00dac6a138aae19d4045adb3cf4b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Flow: Separating Consensus and Compute - Block Formation and Execution}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2002.07403
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2002.07403
+      \endverb
     \endentry
     \entry{Hjalmarsson2018}{inproceedings}{}{}
       \name{author}{4}{}{%
@@ -2543,6 +2838,36 @@
       \field{pages}{21\bibrangedash 30}
       \range{pages}{10}
     \endentry
+    \entry{OpenSea2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8e5e48e99c0557bc119e27770ed9c9eb}{%
+           family={opensea.io},
+           familyi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \strng{fullhash}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \strng{fullhashraw}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \strng{bibnamehash}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \strng{authorbibnamehash}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \strng{authornamehash}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \strng{authorfullhash}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \strng{authorfullhashraw}{8e5e48e99c0557bc119e27770ed9c9eb}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OpenSea NFT Marketplace}
+      \field{urlday}{18}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://opensea.io/
+      \endverb
+      \verb{url}
+      \verb https://opensea.io/
+      \endverb
+    \endentry
     \entry{Park1994}{article}{}{}
       \name{author}{3}{}{%
         {{hash=aa1ab35ecd906a77336cf4405f84c7eb}{%
@@ -2794,6 +3119,38 @@
       \field{pages}{612\bibrangedash 613}
       \range{pages}{2}
     \endentry
+    \entry{flow2020b}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4331cf4dc0471a77387f8685a7bd7339}{%
+           family={team},
+           familyi={t\bibinitperiod},
+           given={Flow\bibnamedelima Development},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4331cf4dc0471a77387f8685a7bd7339}
+      \strng{fullhash}{4331cf4dc0471a77387f8685a7bd7339}
+      \strng{fullhashraw}{4331cf4dc0471a77387f8685a7bd7339}
+      \strng{bibnamehash}{4331cf4dc0471a77387f8685a7bd7339}
+      \strng{authorbibnamehash}{4331cf4dc0471a77387f8685a7bd7339}
+      \strng{authornamehash}{4331cf4dc0471a77387f8685a7bd7339}
+      \strng{authorfullhash}{4331cf4dc0471a77387f8685a7bd7339}
+      \strng{authorfullhashraw}{4331cf4dc0471a77387f8685a7bd7339}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Storing Data on Flow}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developers.flow.com/learn/concepts/storage
+      \endverb
+      \verb{url}
+      \verb https://developers.flow.com/learn/concepts/storage
+      \endverb
+    \endentry
     \entry{TiVi2021}{online}{}{}
       \name{author}{1}{}{%
         {{hash=3ede75f14072c8bd437d42a4d324c341}{%
@@ -2821,6 +3178,34 @@
       \verb{url}
       \verb https://tivi.io/
       \endverb
+    \endentry
+    \entry{Trautman2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5c775b3785859edea3c32c5b08ca04de}{%
+           family={Trautman},
+           familyi={T\bibinitperiod},
+           given={Lawrence\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c775b3785859edea3c32c5b08ca04de}
+      \strng{fullhash}{5c775b3785859edea3c32c5b08ca04de}
+      \strng{fullhashraw}{5c775b3785859edea3c32c5b08ca04de}
+      \strng{bibnamehash}{5c775b3785859edea3c32c5b08ca04de}
+      \strng{authorbibnamehash}{5c775b3785859edea3c32c5b08ca04de}
+      \strng{authornamehash}{5c775b3785859edea3c32c5b08ca04de}
+      \strng{authorfullhash}{5c775b3785859edea3c32c5b08ca04de}
+      \strng{authorfullhashraw}{5c775b3785859edea3c32c5b08ca04de}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Hofstra Law Review}
+      \field{title}{Virtual Art and Non-Fungible Tokens}
+      \field{volume}{50}
+      \field{year}{2022}
+      \field{pages}{371\bibrangedash 426}
+      \range{pages}{56}
     \endentry
     \entry{Vidwans2022}{inproceedings}{}{}
       \name{author}{5}{}{%
