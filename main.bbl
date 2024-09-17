@@ -16,5 +16,243 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Almeida2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=491d7b8186ba1aad456ccb4124a96a93}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Ricardo\bibnamedelima Lopes},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9338e6bc5724374728c0f1eb6f571a30}{%
+           family={Baiardi},
+           familyi={B\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=52d340c2cac26d226bf1ade6d1a7ef58}{%
+           family={Maesa},
+           familyi={M\bibinitperiod},
+           given={Damiano\bibnamedelimb Di\bibnamedelima Francesco},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=cadc080384a7da593ac7fdbd18cd57e0}{%
+           family={Ricci},
+           familyi={R\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{18f9ba5d1546a8932d33cd1c772c9266}
+      \strng{fullhash}{1166e2589b86728d4bc6a0ee2e1c330e}
+      \strng{fullhashraw}{1166e2589b86728d4bc6a0ee2e1c330e}
+      \strng{bibnamehash}{18f9ba5d1546a8932d33cd1c772c9266}
+      \strng{authorbibnamehash}{18f9ba5d1546a8932d33cd1c772c9266}
+      \strng{authornamehash}{18f9ba5d1546a8932d33cd1c772c9266}
+      \strng{authorfullhash}{1166e2589b86728d4bc6a0ee2e1c330e}
+      \strng{authorfullhashraw}{1166e2589b86728d4bc6a0ee2e1c330e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{21693536}
+      \field{issue}{November}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Impact of Decentralization on Electronic Voting Systems: A Systemic Literature Survey}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{132389\bibrangedash 132423}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2023.3336593
+      \endverb
+    \endentry
+    \entry{Diffie1976}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=15409de33b2fa29965e62538bedee6b5}{%
+           family={Diffie},
+           familyi={D\bibinitperiod},
+           given={Whitfield},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a26474253dac6b587d39e5d781d4aa1f}{%
+           family={Hellman},
+           familyi={H\bibinitperiod},
+           given={Martin\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a73dc549f90eddde87be2be5b6c2778b}
+      \strng{fullhash}{a73dc549f90eddde87be2be5b6c2778b}
+      \strng{fullhashraw}{a73dc549f90eddde87be2be5b6c2778b}
+      \strng{bibnamehash}{a73dc549f90eddde87be2be5b6c2778b}
+      \strng{authorbibnamehash}{a73dc549f90eddde87be2be5b6c2778b}
+      \strng{authornamehash}{a73dc549f90eddde87be2be5b6c2778b}
+      \strng{authorfullhash}{a73dc549f90eddde87be2be5b6c2778b}
+      \strng{authorfullhashraw}{a73dc549f90eddde87be2be5b6c2778b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781000239157}
+      \field{issue}{6}
+      \field{journaltitle}{IEEE Transactions on Information Theory}
+      \field{month}{11}
+      \field{title}{New Directions in Cryptography}
+      \field{volume}{22}
+      \field{year}{1976}
+      \field{pages}{644\bibrangedash 654}
+      \range{pages}{11}
+    \endentry
+    \entry{Fujioka1992}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=f7a5bb5f0e5ee339bde85276dd7450f9}{%
+           family={Fujioka},
+           familyi={F\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b76adaf370f4255b09cd89400ccf3d15}{%
+           family={Okamoto},
+           familyi={O\bibinitperiod},
+           given={Tatsuaki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f73fdbd56a9f5ae19dd2485076435bdb}{%
+           family={Ohta},
+           familyi={O\bibinitperiod},
+           given={Kazuo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f52db51857a84f2da8540f630f0c33ca}{%
+           family={Seberry},
+           familyi={S\bibinitperiod},
+           given={Jeniffer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4e34fa7809273a8148dad60f0e4191f5}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Yuliang},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Gold Coast, Queensland, Australia}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{81335e7d57175dc414b20c23ae979cde}
+      \strng{fullhash}{81335e7d57175dc414b20c23ae979cde}
+      \strng{fullhashraw}{81335e7d57175dc414b20c23ae979cde}
+      \strng{bibnamehash}{81335e7d57175dc414b20c23ae979cde}
+      \strng{authorbibnamehash}{81335e7d57175dc414b20c23ae979cde}
+      \strng{authornamehash}{81335e7d57175dc414b20c23ae979cde}
+      \strng{authorfullhash}{81335e7d57175dc414b20c23ae979cde}
+      \strng{authorfullhashraw}{81335e7d57175dc414b20c23ae979cde}
+      \strng{editorbibnamehash}{7ad454c64b049b14afdf43cca5c2943b}
+      \strng{editornamehash}{7ad454c64b049b14afdf43cca5c2943b}
+      \strng{editorfullhash}{7ad454c64b049b14afdf43cca5c2943b}
+      \strng{editorfullhashraw}{7ad454c64b049b14afdf43cca5c2943b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Workshop on the Theory and Application of Cryptographic Techniques}
+      \field{title}{A Practical Secret Voting Scheme for Large Scale Elections}
+      \field{year}{1992}
+      \field{pages}{244\bibrangedash 251}
+      \range{pages}{8}
+    \endentry
+    \entry{Nakamoto2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           familyi={N\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhashraw}{1977190f018b398e43ede3de043de8ea}
+      \strng{bibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhashraw}{1977190f018b398e43ede3de043de8ea}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{www.bitcoin.org}
+      \field{title}{Bitcoin: A Peer-to-Peer Electronic Cash System}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{Neumann1993}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=d036482836fd5481fa5dfa4d946da28a}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Peter\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, USA}%
+      }
+      \strng{namehash}{d036482836fd5481fa5dfa4d946da28a}
+      \strng{fullhash}{d036482836fd5481fa5dfa4d946da28a}
+      \strng{fullhashraw}{d036482836fd5481fa5dfa4d946da28a}
+      \strng{bibnamehash}{d036482836fd5481fa5dfa4d946da28a}
+      \strng{authorbibnamehash}{d036482836fd5481fa5dfa4d946da28a}
+      \strng{authornamehash}{d036482836fd5481fa5dfa4d946da28a}
+      \strng{authorfullhash}{d036482836fd5481fa5dfa4d946da28a}
+      \strng{authorfullhashraw}{d036482836fd5481fa5dfa4d946da28a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 16th National Computer Security Conference}
+      \field{title}{Security Criteria for Electronic Voting}
+      \field{year}{1993}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{Rivest1983}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ae9bb9068d2f4201ffa698486b30ec3d}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod}}}%
+        {{hash=71b77dd8ab33fe646ef25cded49e9881}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Adi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e447382dbbbea2f29b7878ddd0e7318c}{%
+           family={Adleman},
+           familyi={A\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f0c376bf135b99340872235f497a2a5}
+      \strng{fullhash}{9f0c376bf135b99340872235f497a2a5}
+      \strng{fullhashraw}{9f0c376bf135b99340872235f497a2a5}
+      \strng{bibnamehash}{9f0c376bf135b99340872235f497a2a5}
+      \strng{authorbibnamehash}{9f0c376bf135b99340872235f497a2a5}
+      \strng{authornamehash}{9f0c376bf135b99340872235f497a2a5}
+      \strng{authorfullhash}{9f0c376bf135b99340872235f497a2a5}
+      \strng{authorfullhashraw}{9f0c376bf135b99340872235f497a2a5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Communications of the ACM}
+      \field{title}{A Method for Obtaining Digital Signatures and Public-Key Cryptosystems}
+      \field{volume}{26}
+      \field{year}{1983}
+      \field{pages}{96\bibrangedash 99}
+      \range{pages}{4}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

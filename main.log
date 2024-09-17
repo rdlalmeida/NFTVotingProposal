@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  17 SEP 2024 01:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  17 SEP 2024 05:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -622,17 +622,46 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]) (./Sections/02_Related_Works.tex) (./Sections/03_Introduction_to_NFTs.tex) (./Sections/04_Solidity_Implementation.tex) (./Sections/05_Cadence_Implementation.tex) (./Sections/06_Results_Comparison.tex) (./Sections/07_Conclusion.tex)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
 
-LaTeX Warning: Empty bibliography on input line 88.
+[2]
+
+LaTeX Warning: Reference `results_comparison' on page 3 undefined on input line 24.
+
+
+LaTeX Warning: Reference `conclusion' on page 3 undefined on input line 24.
+
+) (./Sections/02_Related_Works.tex) (./Sections/03_Introduction_to_NFTs.tex) (./Sections/04_Solidity_Implementation.tex
+
+[3]) (./Sections/05_Cadence_Implementation.tex) (./Sections/06_Results_Comparison.tex) (./Sections/07_Conclusion.tex)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 88.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 88.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 88.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 88.
+
+Overfull \hbox (4.3128pt too wide) in paragraph at lines 89--89
+\T1/lmr/m/n/10 Vot-ing Sys-tems: A Sys-temic Lit-er-a-ture Sur-vey^^Q. In: \T1/lmr/m/it/10 IEEE Ac-cess \T1/lmr/m/n/10 11 (Novem-
+ []
 
 
 
-[2] (./main.aux)
+[4]
+
+[5] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 57B91F62FF4E19F1EB324357BAE09E78;1407.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -640,18 +669,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18481 strings out of 473579
- 324732 string characters out of 5728234
- 1158322 words of memory out of 5000000
- 41113 multiletter control sequences out of 15000+600000
- 595078 words of font info for 61 fonts, out of 8000000 for 9000
+ 18812 strings out of 473579
+ 331335 string characters out of 5728234
+ 1159672 words of memory out of 5000000
+ 41417 multiletter control sequences out of 15000+600000
+ 617481 words of font info for 80 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 66i,5n,81p,766b,1779s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb>
-Output written on main.pdf (2 pages, 193691 bytes).
+ 66i,5n,81p,1222b,1779s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (5 pages, 297253 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
