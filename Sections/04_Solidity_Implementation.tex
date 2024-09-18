@@ -4,5 +4,35 @@
 \begin{document}
 \section{Solidity Implementation in Ethereum Blockchain}
 \label{sec:solidity_implementation}
-\subsection{}
+\subsection{Introduction}
+Ethereum is the most popular blockchain in academic research. Smart contracts were introduced with this blockchain, whose computation is delegated to the \textit{Ethereum Virtual Machine (EVM)}, essentially a distributed computing platform composed by the aggregated resources (CPU cycles, storage, memory, etc.) of the nodes that are active in the network at any point to run the computations required by smart contract function calls. This feature expanded the scope of usage of blockchain immensely and the academic community was quick to capitalise on it.
+\par
+The popularity of this chain warrants that we implement this system using a Solidity implementation, the programming language used to write Ethereum smart contracts, to both provide a standardised implementation and to serve as a baseline, since Solidity contracts have a more robust knowledge base than any other types, for future comparisons. This standardisation is achieved by implementing ERC standards in the contracts that establish the framework for this system.
+\par
+Solidity implements NFTs in a non-structured fashion, in the sense that these are not digital objects from a programming standpoint. Solidity NFTs are not like typical digital objects from any Object-Oriented programming language, which are defined by internal parameters and functions. In Solidity, any NFT parameters are established by mapping the unique NFT identifier to another variable (integer, url string, address, etc.) and the collection of all these mappings with the same id key compose the actual NFT object. Functions are defined in the same smart contract that defines the NFT, so these are not necessarily NFT functions, as some languages allow objects to have. These functions may be limited to operate on NFT-defining mappings, thus restricted to operate on NFT data, but they belong to the containing contract and have no logical relation with the NFTs themselves.
+\par
+Due to the lack of specificity in Solidity NFTs, as in they do not carry a data type themselves, from this point forward we designate the NFTs used to carry the votes as \textbf{VoteNFT}.
+
+\subsection{Smart Contract Implementation}
+The main voting contract was defined to emulate a voting booth. Like one, this contract can give a ballot to a voter as a NFT transfer to the voter address, allow the voter to vote by changing a parameter in the VoteNFT metadata to his or her choice and even burn the voteNFT.
+\par
+The vote function also allows for multiple vote casting, i.e., after submitting a vote, if the election is still active, the voter can submit another voteNFT at a later stage and this one replaces the previous one. From this implementation point of view, the voter only edits the same NFT field again, since it is a more practical and cheaper (gas wise) alternative to burn the old VoteNFT, mint a new one and run the vote function again. Additional edits are protected against unauthorised uses like the initial vote.
+\par
+If a voter can replace a vote, he/she should also be able to revoke it. This feature is established by a 'burn' function that adds more requirements for its execution, but otherwise it is inherited from the \textit{ERC721Burnable} standard implemented, i.e., it transfers the VoteNFT to address 0.
+
+\subsubsection{ERC Standards Used}
+The voting booth smart contract implements the base \textit{ERC721} standard that implements the majority of internal mappings that define our VoteNFT, as well as useful functions such as "balanceOf" and a base NFT minting function. This standard can be expanded with other \textit{ERC721} based "sub-standards", i.e., standards based on the \textit{ERC721} that add new functionalities to a NFT implementation. The \textit{ERC721URIStorage} and \textit{ERC721Burnable} were added to the base \textit{ERC721} standard. The "Burnable" extension adds the "burn" function and the "URIStorage" extension includes a id to string mapping that we use to encode the vote, but it is often used to write a URL that points to the "actual" digital object abstracted by the NFT (image, video, audio clip, etc.). This standard also exposes a "\_setTokenURI" internal function that can be used to modify the NFT metadata towards our goals.
+
+
+
+\subsubsection{Using "balanceOf" to Ensure One Person, One Vote}
+A fundamental requisite
+
+\subsubsection{The VoteNFT}
+
+% TODO: Encryption layer
+% TODO: Tally contract
+% TODO: Eligibility step
 \end{document}
+
+% TODO: Should we add the Solidity code as annex? Inline? 

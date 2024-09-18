@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1726600016.53184 "main.bcf" "main.bbl" "main" 1726600144.66986 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1726621283.98943 -1
   "Bibliography.bib" 1726528948.90935 55786 d728002c9572e9b6710e3ab2cd9f46b3 ""
-  "main.bcf" 1726600144.50785 115228 a3ae299f3e454160ba4815e67013dc80 "pdflatex"
+  "main.bcf" 1726621283.8222 115228 a3ae299f3e454160ba4815e67013dc80 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1726600141.67991 "/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/main.tex" "main.pdf" "main" 1726600144.67026 0
-  "/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/main.tex" 1726529886.06621 3234 fcb45e1a52496531f88998d221c4475f ""
+["pdflatex"] 1726621280.81488 "/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/main.tex" "main.pdf" "main" 1726621283.98984 0
+  "/home/ricardoalmeida/github_projects/latex_projects/02_NFTVotingProposal/main.tex" 1726617452.58237 3234 fcb45e1a52496531f88998d221c4475f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -153,15 +153,15 @@
   "Sections/01_Introduction.tex" 1726545185.85321 7323 f47bddf0d7cb91adac84b12e94513384 ""
   "Sections/02_Related_Works.tex" 1726592902.1803 12242 3f05000f82626f2890043820a82cf374 ""
   "Sections/03_Introduction_to_NFTs.tex" 1726600132.553 18786 5f5a88134f811ea8debe4148b8d77421 ""
-  "Sections/04_Solidity_Implementation.tex" 1726529787.28709 241 8243d08fd4d2dd0bf6d0617ba643f37f ""
+  "Sections/04_Solidity_Implementation.tex" 1726621276.96528 4707 552e24c2fd0ef1725d16ef273d9e3414 ""
   "Sections/05_Cadence_Implementation.tex" 1726529785.59607 232 d996000481663f27f992c76fac66808e ""
   "Sections/06_Results_Comparison.tex" 1726529754.87072 223 65516e34d4dcebf6707fbcc21f2e3e53 ""
   "Sections/07_Conclusion.tex" 1726529771.0989 167 9c7c261dbed6618900c94c8b578e1568 ""
-  "main.aux" 1726600144.48985 16126 1f67e61108db53a4432b93bd09a903e8 "pdflatex"
+  "main.aux" 1726621283.8012 16814 db05e5410cf8ff22ffe7ed62ec6b1c59 "pdflatex"
   "main.bbl" 1726600028.24553 148752 15e3fd1da86cc7a0122e1a7048b92eae "biber main"
-  "main.out" 1726600144.50585 2665 4bb8b600fffe6cdb8b1bf14e5e131c04 "pdflatex"
-  "main.run.xml" 1726600144.50885 2307 ef3f4732908b470e710a1cc8b88da429 "pdflatex"
-  "main.tex" 1726529886.06621 3234 fcb45e1a52496531f88998d221c4475f ""
+  "main.out" 1726621283.8192 3756 62b291e7fbc6d9e846289df761afc0fd "pdflatex"
+  "main.run.xml" 1726621283.8232 2307 ef3f4732908b470e710a1cc8b88da429 "pdflatex"
+  "main.tex" 1726617452.58237 3234 fcb45e1a52496531f88998d221c4475f ""
   (generated)
   "main.aux"
   "main.bcf"

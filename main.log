@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  17 SEP 2024 21:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  18 SEP 2024 03:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -649,13 +649,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [10]
 
-[11]) (./Sections/04_Solidity_Implementation.tex) (./Sections/05_Cadence_Implementation.tex) (./Sections/06_Results_Comparison.tex
+[11]) (./Sections/04_Solidity_Implementation.tex
 
-[12]) (./Sections/07_Conclusion.tex)
+[12]
+
+[13]) (./Sections/05_Cadence_Implementation.tex) (./Sections/06_Results_Comparison.tex) (./Sections/07_Conclusion.tex)
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 88.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+
+[14]
 Overfull \hbox (11.30455pt too wide) in paragraph at lines 89--89
 \T1/lmtt/m/n/10 com / static / 5b0be2f4e2ccd12e7e8a9be9 / t / 5f37eed8cedac41642edb534 /
  []
@@ -666,13 +670,13 @@ Overfull \hbox (9.3128pt too wide) in paragraph at lines 89--89
  []
 
 
-
-[13]
 Overfull \hbox (26.36433pt too wide) in paragraph at lines 89--89
 []\T1/lmr/m/n/10 Massimo Bar-to-letti and Livio Pom-pianu. ^^P  An Anal-y-sis of Bit-coin OP_RETURN
  []
 
 
+
+[15]
 Overfull \hbox (18.49974pt too wide) in paragraph at lines 89--89
 [][]$\T1/lmtt/m/n/10 https : / / www . bbc . com / news / technology -[] 42237162$[][] \T1/lmr/m/n/10 (vis-ited on 06/22/2022). 
  []
@@ -683,8 +687,6 @@ Overfull \hbox (2.05739pt too wide) in paragraph at lines 89--89
  []
 
 
-
-[14]
 Overfull \hbox (6.45299pt too wide) in paragraph at lines 89--89
 []\T1/lmr/m/n/10 David Chaum. ^^P  The Din-ing Cryp-tog-ra-phers Prob-lem: Un-con-di-tional Sender
  []
@@ -700,6 +702,8 @@ Overfull \hbox (0.80737pt too wide) in paragraph at lines 89--89
  []
 
 
+
+[16]
 Overfull \hbox (28.00693pt too wide) in paragraph at lines 89--89
 []\T1/lmr/m/n/10 Tassos Dim-itriou. ^^P  Ef-fi-cient, Coercion-free and Uni-ver-sally Ver-i-fi-able Blockchain-
  []
@@ -710,22 +714,20 @@ Overfull \hbox (5.98524pt too wide) in paragraph at lines 89--89
  []
 
 
-
-[15]
 Overfull \hbox (9.62135pt too wide) in paragraph at lines 89--89
 []\T1/lmr/m/n/10 Ethereum Foun-da-tion. \T1/lmr/m/it/10 ERC-721 Non-Fungible To-ken Stan-dard\T1/lmr/m/n/10 . \T1/lmr/m/sc/10 url\T1/lmr/m/n/10 : [][]$\T1/lmtt/m/n/10 https :
  []
 
 
 
-[16]
+[17]
+
+[18]
 Overfull \hbox (11.75398pt too wide) in paragraph at lines 89--89
 []\T1/lmr/m/n/10 Byoungcheon Lee and Kwangjo Kim. ^^P  Receipt-free Elec-tronic Vot-ing through
  []
 
 
-
-[17]
 Overfull \hbox (11.78836pt too wide) in paragraph at lines 89--89
 []\T1/lmr/m/n/10 Emmanouil Magkos, Mike Burmester, and Vas-silis Chris-sikopou-los. ^^P  Receipt-
  []
@@ -742,39 +744,39 @@ Overfull \hbox (9.29651pt too wide) in paragraph at lines 89--89
 
 
 
-[18]
+[19]
+
+[20]
 Overfull \hbox (8.67213pt too wide) in paragraph at lines 89--89
 []\T1/lmr/m/n/10 Flow De-vel-op-ment team. \T1/lmr/m/it/10 Stor-ing Data on Flow\T1/lmr/m/n/10 . \T1/lmr/m/sc/10 url\T1/lmr/m/n/10 : [][]$\T1/lmtt/m/n/10 https : / / developers .
  []
 
 
 
-[19]
-
-[20] (./main.aux)
+[21] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4BB8B600FFFE6CDB8B1BF14E5E131C04;2665.
+(rerunfilecheck)             Checksum: 62B291E7FBC6D9E846289DF761AFC0FD;3756.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19200 strings out of 473579
- 345021 string characters out of 5728234
+ 19211 strings out of 473579
+ 345208 string characters out of 5728234
  1168652 words of memory out of 5000000
- 41695 multiletter control sequences out of 15000+600000
+ 41700 multiletter control sequences out of 15000+600000
  620479 words of font info for 81 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  66i,6n,81p,2241b,1779s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (20 pages, 377808 bytes).
+Output written on main.pdf (21 pages, 384705 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 442 compressed objects within 5 object streams
- 128 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 519 PDF objects out of 1000 (max. 8388607)
+ 466 compressed objects within 5 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
