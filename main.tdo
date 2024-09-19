@@ -1,7 +1,0 @@
-\contentsline {todo}{This next part might need revision in the future, if I decide to use this mappings to change the whole token access logic}{16}{section*.2}%
-\contentsline {todo}{Encryption layer}{16}{section*.4}%
-\contentsline {todo}{Tally contract}{16}{section*.5}%
-\contentsline {todo}{Eligibility step}{16}{section*.6}%
-\contentsline {todo}{Setup the gas reporter}{16}{section*.7}%
-\contentsline {todo}{How to rewrite the 'vote' function to limit options, validate the ballot and detect invalid options?}{16}{section*.8}%
-\contentsline {todo}{Should we add the Solidity code as annex? Inline?}{16}{section*.9}%
